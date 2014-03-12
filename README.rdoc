@@ -1,0 +1,19 @@
+= \Vagrant Raring 64 and Rails 4
+
+This is a set of Vagrant configuration files (<tt>Vagranfile</tt> and <tt>script.sh</tt>) I've built for my Ruby on Rails learning project.
+
+Ubuntu :: 13.04/Raring
+Ruby :: 2.1.1
+Rails :: 4.0.3
+Virtual Machine :: Oracle VM VirtualBox
+Other apps :: NodeJS, Vim, RVM, Git
+
+== License
+
+Creative Commons Attribution (CC-BY 3.0)
+
+== Disclaimer
+
+Please, do not use it for production.
+I've made it just to improve my skills and to help with my RoR learning, so bugs might happen.
+Feel free to improve it or just clone it and have fun :)
