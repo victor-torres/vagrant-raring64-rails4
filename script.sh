@@ -21,3 +21,6 @@ gem install rails --no-ri --no-rdoc
 
 # install git
 apt-get install git -y
+
+# set rvm directory permission
+chmod 755 -R /usr/local/rvm/
