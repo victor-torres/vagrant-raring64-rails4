@@ -10,7 +10,7 @@ apt-get install nodejs -y
 
 # installing rvm
 curl -L https://get.rvm.io | bash -s stable
-source /home/vagrant/.rvm/scripts/rvm
+source /etc/profile.d/rvm.sh
 
 # installing ruby
 rvm install ruby
